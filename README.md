@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi everyone, I'm Nhat, an iOS developer 👋
 
 <!--
 **nhatnguyendev/nhatnguyendev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
