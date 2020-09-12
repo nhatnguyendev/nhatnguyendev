@@ -4,7 +4,7 @@ Hi everyone, I'm Nhat, an iOS developer 👋
 </p>
 
 <p align="center">
-<img src="https://github.com/nhatnguyendev/nhatnguyendev/blob/master/IMG_2350%202.JPG" alt="alt text" width="120" height="120">
+<img src="https://github.com/nhatnguyendev/nhatnguyendev/blob/master/IMG_2350%20copy.png" alt="alt text" width="120" height="120">
 </p>
 
 
