@@ -1,6 +1,6 @@
 
 <p align="center">
-Hi everyone, I'm Nhat, an iOS developer 👋
+Hi everyone, I'm Nhat and i love building software 👋💻
 </p>
 
 <p align="center">
