@@ -1,6 +1,6 @@
 
 <p align="center">
-Hi everyone, I'm Nhat and i love building software 👋💻
+Hi everyone, I'm Nhat and I love building, solving problems in software development 👋💻
 </p>
 
 <p align="center">
