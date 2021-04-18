@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-Hi, I'm Nhat and I love to build stuffs, solve problems in software development <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+Hi, I'm Nhat <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  <br> I love to build stuff, solve problems in software development <br> Currently, I am working on many interesting projects and leading teams in technical decisions, nice to meet you! 
 </p>
