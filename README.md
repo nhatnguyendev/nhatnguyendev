@@ -1,24 +1,7 @@
-
-<p align="center">
-Hi, I'm Nhat and I love to build stuffs, solve problems in software development 👋💻
-</p>
-
 <p align="center">
 <img src="https://github.com/nhatnguyendev/nhatnguyendev/blob/master/IMG_2350%20copy.png" alt="alt text" width="120" height="120">
 </p>
 
-
-<!--
-**nhatnguyendev/nhatnguyendev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+Hi, I'm Nhat and I love to build stuffs, solve problems in software development <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+</p>
